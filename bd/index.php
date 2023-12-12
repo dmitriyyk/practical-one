@@ -52,6 +52,7 @@
                 <option value="Китай">Китай</option>
                 <option value="Казахстан">Казахстан</option>
                 <option value="Беларусь">Беларусь</option>
+                <option value="Япония">Япония</option>
             </select>
         </div>
         <div class="mb-3">
