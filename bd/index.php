@@ -10,7 +10,7 @@
     <div class="d-flex justify-content-center align-items-center vh-100">
         <form action="upload1.php" method="POST">
         <div class="mb-3">
-            <label for="surname" class="form-label">Фамилия</label>
+            <label for="surname" class="form-label">Фамилия1111</label>
             <input type="text" class="form-control" name="surname">
         </div>
         <div class="mb-3">
